@@ -2,4 +2,5 @@
   <Project Path="Question1/Question1.csproj" />
   <Project Path="Question2/Question2.csproj" />
   <Project Path="Question3/Question3.csproj" />
+  <Project Path="Question4/Question4.csproj" />
 </Solution>
