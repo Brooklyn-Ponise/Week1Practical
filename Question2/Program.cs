@@ -6,7 +6,7 @@
 Console.WriteLine("Please enter your age:");
     int age = Convert.ToInt32(Console.ReadLine());
 
-if (age <0 || age >110)
+if (age < 0 || age > 110)
     {
     Console.WriteLine("Invalid age. Enter an age between 0 & 110.");
 }
